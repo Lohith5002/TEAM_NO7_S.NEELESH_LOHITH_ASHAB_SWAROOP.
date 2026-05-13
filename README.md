@@ -405,34 +405,6 @@ Understand the importance of each modality.
 
 ---
 
-# Team Contributions
-
-## S. Neelesh
-
-* Processed satellite images
-* Extracted brightness features
-* Implemented Polynomial Regression and GRU models
-
-## Ashab Muhammed
-
-* Performed sales data preprocessing
-* Implemented Linear Regression and LSTM models
-* Conducted initial data analysis
-
-## Swaroop Raghavendra Rao
-
-* Processed review dataset
-* Performed sentiment extraction using VADER
-* Conducted correlation analysis
-
-## Challa Lohith Kumar Reddy
-
-* Performed multimodal integration
-* Conducted temporal alignment
-* Assisted in GRU and Polynomial model evaluation
-
----
-
 # Future Work
 
 * Implement full Transformer-based CAMT architecture
