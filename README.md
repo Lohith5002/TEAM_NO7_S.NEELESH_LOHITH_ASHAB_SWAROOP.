@@ -405,12 +405,12 @@ Understand the importance of each modality.
 
 ---
 
-# Team Contributions
+# Team Contributers
 
-Challa Lohith Kumar Reddy
-S. Neelesh
-Ashab Muhammed
-Swaroop Raghavendra Rao
+* Challa Lohith Kumar Reddy
+* S. Neelesh
+* Ashab Muhammed
+* Swaroop Raghavendra Rao
 
 ---
 
