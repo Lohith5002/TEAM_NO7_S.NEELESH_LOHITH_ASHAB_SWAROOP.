@@ -405,6 +405,15 @@ Understand the importance of each modality.
 
 ---
 
+# Team Contributions
+
+Challa Lohith Kumar Reddy
+S. Neelesh
+Ashab Muhammed
+Swaroop Raghavendra Rao
+
+---
+
 # Future Work
 
 * Implement full Transformer-based CAMT architecture
